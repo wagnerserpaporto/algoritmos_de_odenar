@@ -1,2 +1,2 @@
-# algoritmos_de_odenar
+# algoritimos de ordenação
 bubble sort, quicksort, merge sort
